@@ -1,6 +1,8 @@
 # rock-paper-scissors-lizard-Spock
 A C socket client-server implementation of Rock Paper Scissors Lizard Spock game.
 
+![img](http://www.samkass.com/theories/RPSSL.gif)
+
 ## Getting Started
 
 ### Prerequisites
