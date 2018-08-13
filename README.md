@@ -38,7 +38,7 @@ USAGE: rpsls_client server_ip [port_num_offset]
 ### Example
 Server:
 ```
-./rpsls_server 
+$ ./rpsls_server 
 Waiting for two connections...
 [5]First client is connected...
 [3]OK! Here comes the second one.
@@ -47,7 +47,7 @@ Username received...
 
 Client1:
 ```
-./rpsls_client localhost
+$ ./rpsls_client localhost
 Please enter your username:
 Jack
 Your op's name is Ben
@@ -65,7 +65,7 @@ Total:1 games
 
 Client2:
 ```
-./rpsls_client localhost 1
+$ ./rpsls_client localhost 1
 Please enter your username:
 Ben
 Your op's name is Jack
